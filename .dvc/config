@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\VU360S~1\AppData\Local\Temp\dvc_3
